@@ -5,7 +5,7 @@ Gruppe: Xavier Nursiwat, Artur Bytyqi, Leonardo Grigioni
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 17.11.2023      | 0.0.1   |  |
+| 17.11.2023      | 0.0.1   | I,P und E gemacht |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
