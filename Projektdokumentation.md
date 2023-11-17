@@ -37,10 +37,17 @@ Wir erstellen eine Webapp, wo man TicTacToe, alleine oder auch mit einer KI, spi
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |   Spielfeld ist leer	           | Spieler drückt auf ein freies Feld	        |Das ausgewählte Feld wird vom Spieler besetzt.|
+| 2.1| 	Spieler 1 hat gerade gezogen             |Spieler 2 drückt auf ein freies Feld	         |Das ausgewählte Feld wird von Spieler 2 besetzt. |
+| 3.1  |   KI hat gerade gezogen	           |   -      |  Die KI platziert automatisch ein Symbol auf dem Spielfeld.|
+| 4.1  |Spieler 1 hat gewonnen|         | Eine klare Anzeige, dass Spieler 1 das Spiel gewonnen hat.|
+| 5.1  |Spiel ist beendet |Spieler drückt auf "Neues Spiel starten"         |Das Spielfeld wird zurückgesetzt, und ein neues Spiel beginnt.                   |
+| 6.1  |Spieler drückt auf den Ton aus  |  -       |Der Ton des Spiels wird ausgeschaltet.|
+| 7.1  |	Spieler öffnet die Benutzeroberfläche|         | Die Benutzeroberfläche ist klar und intuitiv gestaltet.|
+| 8.1  |Spieler 1 hat gerade gezogen  |Spieler 2 drückt auf ein freies Feld|Spieler 2 ist an der Reihe, Spieler 1 kann nicht erneut ziehen                   |
+| 9.1  |  Spieler 1 hat gewonnen	           |         |  Das Spiel erkennt automatisch, dass Spieler 1 gewonnen hat.|
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+
 
 ### 1.4 Diagramme
 
@@ -49,9 +56,17 @@ Wir erstellen eine Webapp, wo man TicTacToe, alleine oder auch mit einer KI, spi
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
-| ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| ---- | ----- | --------- | ------------- | ----------------- |
+|1.A	 |TBD  |		-  |Implementierung der Funktion, um Felder durch Drücken zu besetzen (US-1).|	180 Minuten|
+|2.A	|TBD	|	-    |Implementierung der Funktion, damit nach jedem Zug der andere Spieler an der Reihe ist (US-2).|	180 Minuten|
+|3.A	|TBD	|	 -   |Implementierung der Funktion, damit nach jedem Zug eine KI ein Feld platziert (US-3).	|240 Minuten|
+|4.A	|TBD	|	 -   |Implementierung der Anzeige für Spielgewinn oder Unentschieden (US-4).|120 Minuten|
+|5.A	|TBD	|	 -   |Implementierung der Option, das Spielfeld zurückzusetzen oder ein neues Spiel zu starten (US-5).	|120 Minuten|
+|6.A	|TBD	|	 -   |Implementierung der Option, den Ton des Spiels ein- oder auszuschalten (US-6).	|120 Minuten|
+|7.A	|TBD	|	  -  |Gestaltung einer klaren und intuitiven Benutzeroberfläche (US-7).	|240 Minuten|
+|8.A	|TBD	|	 -   |Implementierung der Regel, dass kein Spieler mehr als einmal hintereinander ziehen kann (US-8).	|180 Minuten|
+|9.A	|TBD	|	  -  |Implementierung der automatischen Erkennung des Spielendes bei Gewinn (US-9).|180 Minuten|
+
 
 Total: 
 
