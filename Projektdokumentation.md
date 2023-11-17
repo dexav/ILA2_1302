@@ -1,12 +1,11 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Gruppe: Xavier Nursiwat, Artur Bytyqi, Leonardo Grigioni
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+| 17.11.2023      | 0.0.1   |  |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -14,16 +13,23 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Wir erstellen eine Webapp, wo man TicTacToe, alleine oder auch mit einer KI, spielen kann.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |  muss               | Funktional     | Als Spieler, möchte ich dass man die Felder drücken kann, damit man das Feld besetzt. |
+|2  |     muss                 |Funktional      | Als Spieler, möchte ich dass es nach jedem platzieren der andere Spieler an der Riehe ist, damit man zu zweit spielen kann.                                   |
+| 3  |    muss                  | Funktional     |  Als Spieler, möchte ich dass es nach jedem platzieren eine KI ein Feld paltziert, damit ich gegen einen Computer spielen kann.                           |
+|4  |     muss                 |Funktional      |	Als Spieler, möchte ich eine klare Anzeige darüber erhalten, wer das Spiel gewonnen hat oder ob es unentschieden endet, damit das Spielerlebnis transparent und verständlich ist.                                    |
+| 5  |   kann             | Funktional	     | Als Spieler, möchte ich die Option haben, das Spielfeld zurückzusetzen oder ein neues Spiel zu starten, damit ich schnell und einfach eine weitere Runde spielen kann.                                   |
+| 6  | kann                |Funktional      |  	Als Spieler, möchte ich die Option haben, den Ton des Spiels ein- oder auszuschalten, um die audiovisuelle Erfahrung nach meinen Vorlieben anzupassen.                                  |
+|7 |   kann           |  Funktional       | 	Als Spieler, möchte ich eine klare und intuitive Benutzeroberfläche haben, um das Spiel ohne Schwierigkeiten starten und spielen zu können.                  |
+|8  |muss              |  Funktional       | 	Als Spieler muss das Spiel sicherstellen, dass kein Spieler mehr als einmal hintereinander an der Reihe ist, um faire Bedingungen zu gewährleisten.                  |
+| 9 |    muss          |    Funktional     | Als Spieler muss das Spiel automatisch erkennen, wenn ein Spieler gewonnen hat, um das Ende des Spiels zu signalisieren.|
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
