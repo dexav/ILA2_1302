@@ -13,7 +13,7 @@ Gruppe: Xavier Nursiwat, Artur Bytyqi, Leonardo Grigioni
 
 ### 1.1 Ihr Projekt
 
-Wir erstellen eine Webapp, wo man TicTacToe, alleine oder auch mit einer KI, spielen kann.
+Wir erstellen eine Webapp, wo man TicTacToe, zu zweit oder gegen einen Computer, spielen kann.
 
 
 ### 1.2 User Stories
