@@ -73,9 +73,7 @@ Total:
 
 
 ## 3 Entscheiden
-
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
-
+Wir wollten für den Computer den Minimax Algorithmus verwenden, aber wir haben uns doch entschieden dass wir es anders machen und sonst zu viel Zeit verschwenden nur damit es nicht fertig wird.
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
