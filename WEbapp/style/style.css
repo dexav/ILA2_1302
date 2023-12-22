@@ -51,17 +51,15 @@ small {
 .row {
   display: flex;
 }
-.game-section-vsComputer {
-  text-align: center;
-  display: none;
-}
+.game-section-vsComputer,
 .game-section-twoPlayers {
   text-align: center;
   display: none;
 }
+
 .winner-text {
   font-size: 24px;
-  margin: 20px 0;
+  margin: 5px;
 }
 #restart-button {
   font-size: 18px;
@@ -88,4 +86,10 @@ small {
 .vs-button button:hover {
   background-color: #adb5bd;
   transition: 500ms;
+}
+.score,
+.Highscore {
+  display: flex;
+  flex-direction: column;
+  
 }
