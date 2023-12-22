@@ -78,10 +78,19 @@ Wir wollten für den Computer den Minimax Algorithmus verwenden, aber wir haben 
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |       | Xavier Nursiwat        |               |                   |
+|2.A |       | Leonardo Grigioni          |               |                   |
+| 3.A|       |  Xavier Nursiwat         |               |                   |
+| 4.A |       | Artur Bytyqi          |               |                   |
+| 5.A |       | Artur Bytyqi          |               |                   |
+| 6.A |       | Artur Bytyqi          |               |                   |
+| 7.A  |       | Leonardo Grigioni          |               |                   |
+| 8.A  |       | Leonardo Grigioni          |               |                   |
+| 9.A  |       | Xavier Nursiwat         |               |                   |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
+
+
 
 ## 5 Kontrollieren
 
@@ -90,7 +99,7 @@ Wir wollten für den Computer den Minimax Algorithmus verwenden, aber wir haben 
 | 1.1  |       |          |        |
 | ...  |       |          |        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+✍
 
 ## 6 Auswerten
 
