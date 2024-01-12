@@ -57,15 +57,15 @@ Wir erstellen eine Webapp, wo man TicTacToe, zu zweit oder gegen einen Computer,
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-|1.A	 |TBD  |		-  |Implementierung der Funktion, um Felder durch Drücken zu besetzen (US-1).|	180 Minuten|
-|2.A	|TBD	|	-    |Implementierung der Funktion, damit nach jedem Zug der andere Spieler an der Reihe ist (US-2).|	180 Minuten|
-|3.A	|TBD	|	 -   |Implementierung der Funktion, damit nach jedem Zug eine KI ein Feld platziert (US-3).	|240 Minuten|
-|4.A	|TBD	|	 -   |Implementierung der Anzeige für Spielgewinn oder Unentschieden (US-4).|120 Minuten|
-|5.A	|TBD	|	 -   |Implementierung der Option, das Spielfeld zurückzusetzen oder ein neues Spiel zu starten (US-5).	|120 Minuten|
-|6.A	|TBD	|	 -   |Implementierung der Option, den Ton des Spiels ein- oder auszuschalten (US-6).	|120 Minuten|
-|7.A	|TBD	|	  -  |Gestaltung einer klaren und intuitiven Benutzeroberfläche (US-7).	|240 Minuten|
-|8.A	|TBD	|	 -   |Implementierung der Regel, dass kein Spieler mehr als einmal hintereinander ziehen kann (US-8).	|180 Minuten|
-|9.A	|TBD	|	  -  |Implementierung der automatischen Erkennung des Spielendes bei Gewinn (US-9).|180 Minuten|
+|1.A	 |TBD  |		Xavier Nursiwat  |Implementierung der Funktion, um Felder durch Drücken zu besetzen (US-1).|	180 Minuten|
+|2.A	|TBD	|	Leonardo Grigioni   |Implementierung der Funktion, damit nach jedem Zug der andere Spieler an der Reihe ist (US-2).|	180 Minuten|
+|3.A	|TBD	|	 Xavier Nursiwat   |Implementierung der Funktion, damit nach jedem Zug eine KI ein Feld platziert (US-3).	|240 Minuten|
+|4.A	|TBD	|	 Artur Bytyqi      |Implementierung der Anzeige für Spielgewinn oder Unentschieden (US-4).|120 Minuten|
+|5.A	|TBD	|	 Artur Bytyqi      |Implementierung der Option, das Spielfeld zurückzusetzen oder ein neues Spiel zu starten (US-5).	|120 Minuten|
+|6.A	|TBD	|	 Artur Bytyqi      |Implementierung der Option, den Ton des Spiels ein- oder auszuschalten (US-6).	|120 Minuten|
+|7.A	|TBD	|	  Leonardo Grigioni    |Gestaltung einer klaren und intuitiven Benutzeroberfläche (US-7).	|240 Minuten|
+|8.A	|TBD	|	 Leonardo Grigioni     |Implementierung der Regel, dass kein Spieler mehr als einmal hintereinander ziehen kann (US-8).	|180 Minuten|
+|9.A	|TBD	|	  -Xavier Nursiwat |Implementierung der automatischen Erkennung des Spielendes bei Gewinn (US-9).|180 Minuten|
 
 
 Total: 
@@ -78,15 +78,15 @@ Wir wollten für den Computer den Minimax Algorithmus verwenden, aber wir haben 
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       | Xavier Nursiwat        |               |                   |
-|2.A |       | Leonardo Grigioni          |               |                   |
-| 3.A|       |  Xavier Nursiwat         |               |                   |
-| 4.A |       | Artur Bytyqi          |               |                   |
-| 5.A |       | Artur Bytyqi          |               |                   |
-| 6.A |       | Artur Bytyqi          |               |                   |
-| 7.A  |       | Leonardo Grigioni          |               |                   |
-| 8.A  |       | Leonardo Grigioni          |               |                   |
-| 9.A  |       | Xavier Nursiwat         |               |                   |
+| 1.A  | 01.12.2023      | Xavier Nursiwat        |  180min            |    200min                 |
+|2.A |  01.12.2023       | Leonardo Grigioni          | 180min               |    170min                |
+| 3.A|   01.12.2023      |  Xavier Nursiwat         |    240min           |           230min        |
+| 4.A | 08.12.2023      | Artur Bytyqi          |      120min         |         125min          |
+| 5.A |   19.12.2023    | Artur Bytyqi          |      120min         |        120min           |
+| 6.A |   19.12.2023     | Artur Bytyqi          |    120min         |     115min              |
+| 7.A  |   08.12.2023       | Leonardo Grigioni          | 240min          |    230min               |
+| 8.A  |  19.12.2023      | Leonardo Grigioni          |    180min           |    170min               |
+| 9.A  |  19.12.2023      | Xavier Nursiwat         |      180min           |     170min              |
 
 
 
@@ -96,11 +96,16 @@ Wir wollten für den Computer den Minimax Algorithmus verwenden, aber wir haben 
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 22.12.2023      |          |  Xavier Nursiwat       |
+| 2.1  | 22.12.2023      |          |  Xavier Nursiwat       |
+| 3.1 | 22.12.2023      |          |  Xavier Nursiwat       |
+|4.1  |  22.12.2023     |          |   Artur Bytyqi      |
+| 5.1   | 22.12.2023      |          |   Artur Bytyqi       |
+|6.1   |  22.12.2023     |          |  Leonardo Grigioni      |
+| 7.1   | 22.12.2023      |          |   Leonardo Grigioni      |
+| 8.1 |  22.12.2023     |          |   Xavier Nursiwat      |
+|9.1   |  22.12.2023     |          | Xavier Nursiwat        |
 
-✍
 
-## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+
