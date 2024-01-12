@@ -31,7 +31,6 @@ Wir erstellen eine Webapp, wo man TicTacToe, zu zweit oder gegen einen Computer,
 | 9 |    muss          |    Funktional     | Als Spieler muss das Spiel automatisch erkennen, wenn ein Spieler gewonnen hat, um das Ende des Spiels zu signalisieren.|
 
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
@@ -49,9 +48,8 @@ Wir erstellen eine Webapp, wo man TicTacToe, zu zweit oder gegen einen Computer,
 
 
 
-### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
+
 
 ## 2 Planen
 
@@ -68,7 +66,7 @@ Wir erstellen eine Webapp, wo man TicTacToe, zu zweit oder gegen einen Computer,
 |9.A	|TBD	|	  -Xavier Nursiwat |Implementierung der automatischen Erkennung des Spielendes bei Gewinn (US-9).|180 Minuten|
 
 
-Total: 
+Total: 1560min
 
 
 
