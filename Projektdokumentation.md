@@ -6,8 +6,8 @@ Gruppe: Xavier Nursiwat, Artur Bytyqi, Leonardo Grigioni
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 17.11.2023      | 0.0.1   | I,P und E gemacht |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 15.12.2023      | 0.0.2     |                                                              |
+| 22.12.2023      | 1.0.0   |  Das Spiel wurde fertiggestellt                                                            |
 
 ## 1 Informieren
 
@@ -55,15 +55,15 @@ Wir erstellen eine Webapp, wo man TicTacToe, zu zweit oder gegen einen Computer,
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-|1.A	 |TBD  |		Xavier Nursiwat  |Implementierung der Funktion, um Felder durch Drücken zu besetzen (US-1).|	180 Minuten|
-|2.A	|TBD	|	Leonardo Grigioni   |Implementierung der Funktion, damit nach jedem Zug der andere Spieler an der Reihe ist (US-2).|	180 Minuten|
-|3.A	|TBD	|	 Xavier Nursiwat   |Implementierung der Funktion, damit nach jedem Zug eine KI ein Feld platziert (US-3).	|240 Minuten|
-|4.A	|TBD	|	 Artur Bytyqi      |Implementierung der Anzeige für Spielgewinn oder Unentschieden (US-4).|120 Minuten|
-|5.A	|TBD	|	 Artur Bytyqi      |Implementierung der Option, das Spielfeld zurückzusetzen oder ein neues Spiel zu starten (US-5).	|120 Minuten|
-|6.A	|TBD	|	 Artur Bytyqi      |Implementierung der Option, den Ton des Spiels ein- oder auszuschalten (US-6).	|120 Minuten|
-|7.A	|TBD	|	  Leonardo Grigioni    |Gestaltung einer klaren und intuitiven Benutzeroberfläche (US-7).	|240 Minuten|
-|8.A	|TBD	|	 Leonardo Grigioni     |Implementierung der Regel, dass kein Spieler mehr als einmal hintereinander ziehen kann (US-8).	|180 Minuten|
-|9.A	|TBD	|	  -Xavier Nursiwat |Implementierung der automatischen Erkennung des Spielendes bei Gewinn (US-9).|180 Minuten|
+|1.A	 |TBD  |		Xavier Nursiwat  |Implementierung der Funktion, um Felder durch Drücken zu besetzen.|	180 Minuten|
+|2.A	|TBD	|	Leonardo Grigioni   |Implementierung der Funktion, damit nach jedem Zug der andere Spieler an der Reihe ist.|	180 Minuten|
+|3.A	|TBD	|	 Xavier Nursiwat   |Implementierung der Funktion, damit nach jedem Zug eine KI ein Feld platziert.	|240 Minuten|
+|4.A	|TBD	|	 Artur Bytyqi      |Implementierung der Anzeige für Spielgewinn oder Unentschieden.|120 Minuten|
+|5.A	|TBD	|	 Artur Bytyqi      |Implementierung der Option, das Spielfeld zurückzusetzen oder ein neues Spiel zu starten.	|120 Minuten|
+|6.A	|TBD	|	 Artur Bytyqi      |Implementierung der Option, den Ton des Spiels ein- oder auszuschalten.	|120 Minuten|
+|7.A	|TBD	|	  Leonardo Grigioni    |Gestaltung einer klaren und intuitiven Benutzeroberfläche.	|240 Minuten|
+|8.A	|TBD	|	 Leonardo Grigioni     |Implementierung der Regel, dass kein Spieler mehr als einmal hintereinander ziehen kann.	|180 Minuten|
+|9.A	|TBD	|	  -Xavier Nursiwat |Implementierung der automatischen Erkennung des Spielendes bei Gewinn.|180 Minuten|
 
 
 Total: 1560min
