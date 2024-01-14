@@ -80,11 +80,11 @@ Wir wollten für den Computer den Minimax Algorithmus verwenden, aber wir haben 
 |2.A |  01.12.2023       | Leonardo Grigioni          | 180min               |    170min                |
 | 3.A|   01.12.2023      |  Xavier Nursiwat         |    240min           |           230min        |
 | 4.A | 08.12.2023      | Artur Bytyqi          |      120min         |         125min          |
-| 5.A |   19.12.2023    | Artur Bytyqi          |      120min         |        120min           |
-| 6.A |   19.12.2023     | Artur Bytyqi          |    120min         |     115min              |
-| 7.A  |   08.12.2023       | Leonardo Grigioni          | 240min          |    230min               |
-| 8.A  |  19.12.2023      | Leonardo Grigioni          |    180min           |    170min               |
-| 9.A  |  19.12.2023      | Xavier Nursiwat         |      180min           |     170min              |
+| 5.A |   15.12.2023    | Artur Bytyqi          |      120min         |        120min           |
+| 6.A |   15.12.2023     | Artur Bytyqi          |    120min         |     115min              |
+| 7.A  |   15.12.2023       | Leonardo Grigioni          | 240min          |    230min               |
+| 8.A  |  15.12.2023      | Leonardo Grigioni          |    180min           |    170min               |
+| 9.A  |  15.12.2023      | Xavier Nursiwat         |      180min           |     170min              |
 
 
 
@@ -94,15 +94,15 @@ Wir wollten für den Computer den Minimax Algorithmus verwenden, aber wir haben 
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  | 22.12.2023      |          |  Xavier Nursiwat       |
-| 2.1  | 22.12.2023      |          |  Xavier Nursiwat       |
-| 3.1 | 22.12.2023      |          |  Xavier Nursiwat       |
-|4.1  |  22.12.2023     |          |   Artur Bytyqi      |
-| 5.1   | 22.12.2023      |          |   Artur Bytyqi       |
-|6.1   |  22.12.2023     |          |  Leonardo Grigioni      |
-| 7.1   | 22.12.2023      |          |   Leonardo Grigioni      |
-| 8.1 |  22.12.2023     |          |   Xavier Nursiwat      |
-|9.1   |  22.12.2023     |          | Xavier Nursiwat        |
+| 1.1  | 22.12.2023      |  ok        |  Xavier Nursiwat       |
+| 2.1  | 22.12.2023      |   ok       |  Xavier Nursiwat       |
+| 3.1 | 22.12.2023      |   ok       |  Xavier Nursiwat       |
+|4.1  |  22.12.2023     |   ok       |   Artur Bytyqi      |
+| 5.1   | 22.12.2023      |      ok    |   Artur Bytyqi       |
+|6.1   |  22.12.2023     |    nok      |  Leonardo Grigioni      |
+| 7.1   | 22.12.2023      |  ok        |   Leonardo Grigioni      |
+| 8.1 |  22.12.2023     |   ok       |   Xavier Nursiwat      |
+|9.1   |  22.12.2023     |  ok        | Xavier Nursiwat        |
 
 
 
