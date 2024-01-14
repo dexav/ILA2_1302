@@ -55,11 +55,11 @@ Wir erstellen eine Webapp, wo man TicTacToe, zu zweit oder gegen einen Computer,
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-|1.A	 |TBD  |		Xavier Nursiwat  |Implementierung der Funktion, um Felder durch Drücken zu besetzen.|	180 Minuten|
-|2.A	|TBD	|	Leonardo Grigioni   |Implementierung der Funktion, damit nach jedem Zug der andere Spieler an der Reihe ist.|	180 Minuten|
-|3.A	|TBD	|	 Xavier Nursiwat   |Implementierung der Funktion, damit nach jedem Zug eine KI ein Feld platziert.	|240 Minuten|
-|4.A	|TBD	|	 Artur Bytyqi      |Implementierung der Anzeige für Spielgewinn oder Unentschieden.|120 Minuten|
-|5.A	|TBD	|	 Artur Bytyqi      |Implementierung der Option, das Spielfeld zurückzusetzen oder ein neues Spiel zu starten.	|120 Minuten|
+|1.A	 |1.12.2023 |		Xavier Nursiwat  |Implementierung der Funktion, um Felder durch Drücken zu besetzen.|	180 Minuten|
+|2.A	|1.12.2023|	Leonardo Grigioni   |Implementierung der Funktion, damit nach jedem Zug der andere Spieler an der Reihe ist.|	180 Minuten|
+|3.A	|1.12.2023|	 Xavier Nursiwat   |Implementierung der Funktion, damit nach jedem Zug eine KI ein Feld platziert.	|240 Minuten|
+|4.A	|8.12.2023	|	 Artur Bytyqi      |Implementierung der Anzeige für Spielgewinn oder Unentschieden.|120 Minuten|
+|5.A	|	1.12.2023|	 Artur Bytyqi      |Implementierung der Option, das Spielfeld zurückzusetzen oder ein neues Spiel zu starten.	|120 Minuten|
 |6.A	|TBD	|	 Artur Bytyqi      |Implementierung der Option, den Ton des Spiels ein- oder auszuschalten.	|120 Minuten|
 |7.A	|TBD	|	  Leonardo Grigioni    |Gestaltung einer klaren und intuitiven Benutzeroberfläche.	|240 Minuten|
 |8.A	|TBD	|	 Leonardo Grigioni     |Implementierung der Regel, dass kein Spieler mehr als einmal hintereinander ziehen kann.	|180 Minuten|
