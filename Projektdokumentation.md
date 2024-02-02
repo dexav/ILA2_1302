@@ -87,7 +87,7 @@ Wir wollten für den Computer den Minimax Algorithmus verwenden, aber wir haben 
 | 9.A  |  15.12.2023      | Xavier Nursiwat         |      180min           |     170min              |
 
 ### Quellen
-Wir haben vom Design her an dieser Website einbisschen abgeschaut:
+Wir haben vom Design her an dieser Website einbisschen abgeschaut. Wir haben doch sehr viel von dieser Webseite abgeschrieben, vorallem in der JavaScript Datei. :
 [TicTacToe Design](https://www.sourcecodester.com/javascript/16930/tic-tac-toe-2-players-and-vs-computer-using-html-css-and-javascript-source-code). 
 
 
