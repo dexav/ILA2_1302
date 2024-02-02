@@ -86,6 +86,9 @@ Wir wollten für den Computer den Minimax Algorithmus verwenden, aber wir haben 
 | 8.A  |  15.12.2023      | Leonardo Grigioni          |    180min           |    170min               |
 | 9.A  |  15.12.2023      | Xavier Nursiwat         |      180min           |     170min              |
 
+### Quellen
+Wir haben vom Design her an dieser Website einbisschen abgeschaut:
+[TicTacToe Design](https://www.sourcecodester.com/javascript/16930/tic-tac-toe-2-players-and-vs-computer-using-html-css-and-javascript-source-code). 
 
 
 
